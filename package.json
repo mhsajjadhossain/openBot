@@ -1,5 +1,5 @@
 {
-  "name": "openBot - AI discord bot",
+  "name": "openBot",
   "version": "1.0.0",
   "description": "A simple discord bot with the power of chatGPT.It it just a demo that shows how we can intrigante ChatGPT to our discord servers with simple setups.",
   "main": "app.js",
@@ -7,7 +7,14 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "keywords": ["mhsajjadhossain","openBot","ChatGPT discord bot","node discord bot","discord bot","chatgpt"],
+  "keywords": [
+    "mhsajjadhossain",
+    "openBot",
+    "ChatGPT discord bot",
+    "node discord bot",
+    "discord bot",
+    "chatgpt"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
